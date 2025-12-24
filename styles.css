@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #ffffff;
+  color: #111;
+}
+
+header {
+  background: #8b0000;
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+}
+
+.hero {
+  padding: 40px;
+}
+
+.hero ul {
+  list-style: none;
+  padding: 0;
+}
+
+.hero li {
+  padding: 6px 0;
+  font-weight: bold;
+}
+
+.cta {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: #8b0000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+footer {
+  background: #111;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
