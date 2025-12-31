@@ -42,3 +42,9 @@ footer {
   text-align: center;
   padding: 20px;
 }
+.logo {
+  width: 110px;
+  margin-bottom: 20px;
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.4));
+}
+
